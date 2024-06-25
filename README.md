@@ -7,6 +7,7 @@ First I download the raw data from the link provided. I downloaded 5 excel file 
 Q.1 Are there some differences in the Market values of occupied versus not occupied housing units?
 
 Difference in the Market Values is significant only for years 2005 and 2011. In these years the market value of 'Occupied' units was greater than 'Not-Occupied' units. For the remaining years there is no significant difference in the market value across 'Occupied' and 'Not-Occupied' units 
+
 Q.2 Do these differences have a pattern over the period 2005 through 2013?
 
 The pattern discernable is that the Market value of 'Occupied' units is never less than that for 'Not-Occupied' units. It is either greater (as in years 2005 and 2011) or equal (as in the remaining years).
